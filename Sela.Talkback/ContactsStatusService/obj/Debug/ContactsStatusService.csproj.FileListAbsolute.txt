@@ -1,0 +1,5 @@
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ContactsStatusService\bin\ContactsStatusService.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ContactsStatusService\bin\ContactsStatusService.pdb
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ContactsStatusService\obj\Debug\ContactsStatusService.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ContactsStatusService\obj\Debug\ContactsStatusService.pdb
+C:\Users\Nadav\documents\visual studio 2012\Projects\Sela.TalkBack\ContactsStatusService\obj\Debug\ContactsStatusService.csprojResolveAssemblyReference.cache

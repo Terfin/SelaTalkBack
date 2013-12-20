@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Nadav\Deploy\SelaTalkback\DataService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DataContracts.dll">
+      <publishTime>12/18/2013 19:53:47</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/15/2013 12:24:03</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/15/2013 12:24:03</publishTime>
+    </File>
+    <File Include="bin/Sela.TalkBack.Common.Entities.dll">
+      <publishTime>12/18/2013 19:50:23</publishTime>
+    </File>
+    <File Include="bin/Sela.TalkBack.Services.DataService.dll">
+      <publishTime>12/18/2013 20:36:54</publishTime>
+    </File>
+    <File Include="DataService.svc">
+      <publishTime>12/17/2013 17:39:34</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/15/2013 12:24:06</publishTime>
+    </File>
+    <File Include="SelaTalkBackEntities.edmx.diagram">
+      <publishTime>12/15/2013 21:38:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/18/2013 19:07:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

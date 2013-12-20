@@ -1,0 +1,5 @@
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\bin\Release\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\bin\Release\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Release\Sela.TalkBack.Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Release\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Release\Sela.TalkBack.Common.Entities.pdb

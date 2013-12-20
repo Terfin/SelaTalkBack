@@ -1,0 +1,16 @@
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\obj\Debug\DataService.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.Talkback.Services.DataService.Tests.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.Talkback.Services.DataService.Tests.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\DataContracts.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.TalkBack.Services.DataService.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\DataContracts.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.TalkBack.Services.DataService.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\obj\Debug\Sela.Talkback.Services.DataService.Tests.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\obj\Debug\Sela.Talkback.Services.DataService.Tests.pdb
+C:\Users\Nadav\documents\visual studio 2012\Projects\Sela.TalkBack\Sela.Talkback.Services.DataService.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Nadav\documents\visual studio 2012\Projects\Sela.TalkBack\Sela.Talkback.Services.DataService.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Nadav\documents\visual studio 2012\Projects\Sela.TalkBack\Sela.Talkback.Services.DataService.Tests\bin\Debug\Sela.Talkback.Services.DataService.Tests.dll.config
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.Talkback.Services.DataService.Tests\bin\Debug\EntityFramework.SqlServer.xml

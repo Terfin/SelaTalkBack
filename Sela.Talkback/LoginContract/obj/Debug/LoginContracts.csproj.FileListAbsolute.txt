@@ -1,0 +1,7 @@
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\LoginContract\obj\Debug\LoginContracts.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\bin\Debug\Sela.TalkBack.LoginService.Contracts.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\bin\Debug\Sela.TalkBack.LoginService.Contracts.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\obj\Debug\Sela.TalkBack.LoginService.Contracts.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\LoginContract\obj\Debug\Sela.TalkBack.LoginService.Contracts.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\bin\Debug\DataContracts.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\bin\Debug\DataContracts.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\obj\Debug\DataContracts.dll
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\DataContracts\obj\Debug\DataContracts.pdb

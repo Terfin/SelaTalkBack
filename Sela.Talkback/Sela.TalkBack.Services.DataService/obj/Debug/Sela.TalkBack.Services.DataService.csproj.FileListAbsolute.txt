@@ -1,0 +1,5 @@
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.DataService\bin\Sela.TalkBack.Services.DataService.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.DataService\bin\Sela.TalkBack.Services.DataService.pdb
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.DataService\obj\Debug\Sela.TalkBack.Services.DataService.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.DataService\obj\Debug\Sela.TalkBack.Services.DataService.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.DataService\obj\Debug\Sela.TalkBack.Services.DataService.csprojResolveAssemblyReference.cache

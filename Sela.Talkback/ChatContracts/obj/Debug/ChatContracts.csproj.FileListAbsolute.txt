@@ -1,0 +1,5 @@
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ChatContracts\bin\Debug\ChatContracts.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ChatContracts\bin\Debug\ChatContracts.pdb
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ChatContracts\obj\Debug\ChatContracts.dll
+c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\ChatContracts\obj\Debug\ChatContracts.pdb
+C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\ChatContracts\obj\Debug\ChatContracts.csprojResolveAssemblyReference.cache
