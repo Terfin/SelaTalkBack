@@ -11,13 +11,14 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
     [TestClass]
     public class DataServiceTests
     {
+        const string APPKEY = "7e240de74fb1ed08fa08d38063f6a6a91462a815";
         [TestMethod]
         public void GetUser_WithExistingUsernameByUsernameAndPassword_ReturnsUser()
         {
             string username = "Test";
             string password = "Test";
             var service = new DataService();
-            var user = service.GetUser(username, password);
+            var user = service.GetUser(username, password, APPKEY);
             Assert.IsNotNull(user);
             Assert.IsInstanceOfType(user, typeof(User));
         }
@@ -31,7 +32,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
             var hasher = SHA256.Create();
             var hashbytes = hasher.ComputeHash(Encoding.ASCII.GetBytes(username + password));
             var service = new DataService();
-            service.GetUserByHash(Encoding.ASCII.GetString(hashbytes));
+            service.GetUserByHash(Encoding.ASCII.GetString(hashbytes), APPKEY);
         }
 
         [TestMethod]
@@ -41,7 +42,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
             string username = "Test15";
             string password = "1234";
             var service = new DataService();
-            service.GetUser(username, password);
+            service.GetUser(username, password, APPKEY);
         }
 
         [TestMethod]
@@ -49,7 +50,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
         public void GetUser_WithNullUsernameAndPassword_ThrowException()
         {
             var service = new DataService();
-            service.GetUser(null, null);
+            service.GetUser(null, null, APPKEY);
         }
 
         [TestMethod]
@@ -57,7 +58,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
         public void GetUser_WithNullUsername_ThrowException()
         {
             var service = new DataService();
-            service.GetUser(null, "12345");
+            service.GetUser(null, "12345", APPKEY);
         }
 
         [TestMethod]
@@ -65,7 +66,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
         public void GetUser_WithNullPassword_ThrowException()
         {
             var service = new DataService();
-            service.GetUser("foo", null);
+            service.GetUser("foo", null, APPKEY);
         }
 
         [TestMethod]
@@ -73,7 +74,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
         public void GetUser_WithNullHash_ThrowException()
         {
             var service = new DataService();
-            service.GetUserByHash(null);
+            service.GetUserByHash(null, APPKEY);
         }
 
         [TestMethod]
@@ -85,7 +86,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
                 Password = "Test"
             };
             var service = new DataService();
-            service.RegisterUser(userToRegister);
+            service.RegisterUser(userToRegister, APPKEY);
         }
 
         [TestMethod]
@@ -98,7 +99,7 @@ namespace Sela.TalkBack.Services.DataLayerService.Tests
                 Password = "Test"
             };
             var service = new DataService();
-            service.RegisterUser(userToRegister);
+            service.RegisterUser(userToRegister, APPKEY);
         }
     }
 }

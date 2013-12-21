@@ -11,5 +11,13 @@
   </EntityType>
   <EntityContainer Name="SelaTalkBackEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Members" EntityType="Self.Member" />
+    <EntitySet Name="AuthorizedApps" EntityType="SelaTalkBackModel.AuthorizedApp" />
   </EntityContainer>
+  <EntityType Name="AuthorizedApp">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AppKey" Type="String" Nullable="false" MaxLength="40" FixedLength="false" Unicode="true" />
+  </EntityType>
 </Schema>

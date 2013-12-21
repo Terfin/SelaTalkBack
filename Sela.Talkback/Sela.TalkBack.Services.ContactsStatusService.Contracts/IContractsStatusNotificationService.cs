@@ -11,8 +11,11 @@ namespace Sela.TalkBack.Services.ContactsStatusService.Contracts
     [ServiceContract(CallbackContract=typeof(IContractsStatusNotificationsCallback))]
     public interface IContractsStatusNotificationService
     {
-        [OperationContract(IsOneWay=true)]
-        void SignUpForNotifications();
+        [OperationContract(IsOneWay = true)]
+        void Subscribe(string userHash);
+
+        [OperationContract(IsOneWay = true)]
+        void UnSubscribe(string userHash);
     }
 
     [ServiceContract]

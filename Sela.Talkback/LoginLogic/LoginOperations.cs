@@ -74,7 +74,7 @@ namespace LoginLogic
             {
                 var cf = new ChannelFactory<IContactsStatusService>("contactsservice");
                 var channel = cf.CreateChannel();
-                var users = channel.GetContacts();
+                var users = channel.GetOnlineContacts();
                 if (cf.State == CommunicationState.Opened)
                 {
                     cf.Close();

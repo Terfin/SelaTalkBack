@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 namespace Sela.TalkBack.Services.ContactsStatusService.Contracts
 {
     [ServiceContract(Namespace=@"http://www.selatalkback.com")]
-    [ServiceBehavior(ConcurrencyMode=ConcurrencyMode.Multiple)]
     public interface IContactsStatusService
     {
         [OperationContract(IsOneWay=true)]

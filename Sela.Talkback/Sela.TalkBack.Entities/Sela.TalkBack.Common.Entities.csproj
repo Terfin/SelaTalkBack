@@ -41,10 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsolidatedResponse.cs" />
-    <Compile Include="Contracts\INotifyService.cs" />
-    <Compile Include="NotificationRequest.cs" />
-    <Compile Include="NotificationResponseBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>

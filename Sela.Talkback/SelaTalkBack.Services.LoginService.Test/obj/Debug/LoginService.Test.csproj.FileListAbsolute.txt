@@ -14,3 +14,21 @@ C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\SelaTalkBack.
 C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\DataContracts.dll
 C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\DataContracts.pdb
 C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\SelaTalkBack.Services.LoginService.Test.dll.config
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\SelaTalkBack.Services.LoginService.Test.dll.config
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\SelaTalkBack.Services.LoginService.Test.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\SelaTalkBack.Services.LoginService.Test.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.LoginService.Contracts.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.Services.LoginService.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\LoginLogic.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\DataContracts.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.LoginService.Contracts.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Sela.TalkBack.Services.LoginService.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\LoginLogic.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\DataContracts.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\obj\Debug\LoginService.Test.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\obj\Debug\SelaTalkBack.Services.LoginService.Test.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\obj\Debug\SelaTalkBack.Services.LoginService.Test.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Contracts.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\SelaTalkBack.Services.LoginService.Test\bin\Debug\Contracts.pdb

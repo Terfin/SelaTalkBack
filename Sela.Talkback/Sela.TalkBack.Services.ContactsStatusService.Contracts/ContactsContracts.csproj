@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
@@ -40,9 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CacheStateChange.cs" />
+    <Compile Include="CacheStateChangedEventArgs.cs" />
     <Compile Include="IContractsStatusNotificationService.cs" />
     <Compile Include="IContactsStatusService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsersCache.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sela.TalkBack.Entities\Sela.TalkBack.Common.Entities.csproj">

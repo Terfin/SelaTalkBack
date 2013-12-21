@@ -5,3 +5,10 @@ c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack
 c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\ContactsContracts.csprojResolveAssemblyReference.cache
 c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\Contracts.dll
 c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\Contracts.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\ContactsContracts.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\Contracts.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\bin\Debug\Contracts.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\bin\Debug\Contracts.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Services.ContactsStatusService.Contracts\obj\Debug\Contracts.pdb

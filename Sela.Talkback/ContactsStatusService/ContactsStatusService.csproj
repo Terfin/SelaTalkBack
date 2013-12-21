@@ -84,6 +84,10 @@
       <Project>{e2d245ff-7b5c-42c2-a396-b964a73d9c37}</Project>
       <Name>ContactsLogics</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataContracts\DataContracts.csproj">
+      <Project>{1139deec-7cba-419c-990b-b3daf5c9463d}</Project>
+      <Name>DataContracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sela.TalkBack.Entities\Sela.TalkBack.Common.Entities.csproj">
       <Project>{719a4cdf-126f-44d3-a274-bc99a96b7e6b}</Project>
       <Name>Sela.TalkBack.Common.Entities</Name>

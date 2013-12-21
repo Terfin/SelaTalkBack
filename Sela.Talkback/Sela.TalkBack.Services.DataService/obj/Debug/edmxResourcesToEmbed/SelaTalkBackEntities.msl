@@ -11,5 +11,13 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="AuthorizedApps">
+      <EntityTypeMapping TypeName="SelaTalkBackModel.AuthorizedApp">
+        <MappingFragment StoreEntitySet="AuthorizedApps">
+          <ScalarProperty Name="AppKey" ColumnName="AppKey" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
   </EntityContainerMapping>
 </Mapping>

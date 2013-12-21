@@ -3,3 +3,8 @@ c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack
 c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.dll
 c:\users\nadav\documents\visual studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.pdb
 C:\Users\Nadav\Documents\Visual Studio 2012\Projects\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Entities\bin\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Entities\bin\Debug\Sela.TalkBack.Common.Entities.pdb
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.dll
+C:\Users\Nadav\Source\Repos\SelaTalkBack\Sela.Talkback\Sela.TalkBack.Entities\obj\Debug\Sela.TalkBack.Common.Entities.pdb

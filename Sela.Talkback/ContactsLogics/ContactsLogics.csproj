@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="ContactsOperations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsersCache.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataContracts\DataContracts.csproj">
@@ -53,6 +52,10 @@
     <ProjectReference Include="..\Sela.TalkBack.Entities\Sela.TalkBack.Common.Entities.csproj">
       <Project>{719a4cdf-126f-44d3-a274-bc99a96b7e6b}</Project>
       <Name>Sela.TalkBack.Common.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sela.TalkBack.Services.ContactsStatusService.Contracts\ContactsContracts.csproj">
+      <Project>{c9c4ddf0-fc15-426e-a4b8-2638d43562fe}</Project>
+      <Name>ContactsContracts</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
