@@ -12,14 +12,14 @@ namespace ContactsLogics
     public class ContactsOperations : IDisposable, INotifyDataServiceCallback
     {
         private UsersCache cache;
-        private EventHandler<CacheStateChangedEventArgs> cacheHandler;
+        private EventHandler<List<StateChangedEventArgs>> cacheHandler;
         private bool disposed = false;
         public ContactsOperations()
         {
             cache = UsersCache.Instance;
         }
 
-        public ContactsOperations(bool subscribe, EventHandler<CacheStateChangedEventArgs> handler) : this()
+        public ContactsOperations(bool subscribe, EventHandler<List<StateChangedEventArgs>> handler) : this()
         {
             if (subscribe)
             {

@@ -59,10 +59,14 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ContactsStatusNotificationService.svc" />
     <Content Include="ContactsStatusService.svc" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContactsStatusNotificationService.svc.cs">
+      <DependentUpon>ContactsStatusNotificationService.svc</DependentUpon>
+    </Compile>
     <Compile Include="ContactsStatusService.svc.cs">
       <DependentUpon>ContactsStatusService.svc</DependentUpon>
     </Compile>

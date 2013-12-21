@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace Sela.TalkBack.Services.ContactsStatusService.Contracts
 {
-    [ServiceContract(CallbackContract=typeof(IContractsStatusNotificationsCallback))]
-    public interface IContractsStatusNotificationService
+    [ServiceContract(CallbackContract=typeof(IContactsStatusNotificationsCallback))]
+    public interface IContactsStatusNotificationService
     {
         [OperationContract(IsOneWay = true)]
         void Subscribe(string userHash);
@@ -19,12 +19,12 @@ namespace Sela.TalkBack.Services.ContactsStatusService.Contracts
     }
 
     [ServiceContract]
-    public interface IContractsStatusNotificationsCallback
+    public interface IContactsStatusNotificationsCallback
     {
         [OperationContract(IsOneWay=true)]
-        void UserStatusChangedNotification(User user);
+        void UserStatusChangedNotification(StateChangedEventArgs change);
 
         [OperationContract(IsOneWay=true)]
-        void UserBundleNotification(IEnumerable<User> users);
+        void UserBundleNotification(IEnumerable<StateChangedEventArgs> changes);
     }
 }
